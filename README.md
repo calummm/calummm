@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @calummm
+- 👀 I’m interested in JavaScript, Typescript, Angular, Node, Geospatial, the usual
+- 🌱 I’m currently learning web bundle techonologies
+- 💞️ I’m looking to collaborate on build pipeline tooling, Angular projects and components
+- 📫 How to reach me calummm@gmail.com
